@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/steem-invoice/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/steem-invoice/static/js/main.0643b7aa.chunk.js",
-    "main.js.map": "/steem-invoice/static/js/main.0643b7aa.chunk.js.map",
+    "main.js": "/steem-invoice/static/js/main.e9a8a81f.chunk.js",
+    "main.js.map": "/steem-invoice/static/js/main.e9a8a81f.chunk.js.map",
     "runtime-main.js": "/steem-invoice/static/js/runtime-main.6957f7f1.js",
     "runtime-main.js.map": "/steem-invoice/static/js/runtime-main.6957f7f1.js.map",
     "static/css/2.800be05e.chunk.css": "/steem-invoice/static/css/2.800be05e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.435251f2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.0643b7aa.chunk.js"
+    "static/js/main.e9a8a81f.chunk.js"
   ]
 }
