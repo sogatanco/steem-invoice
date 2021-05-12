@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/steem-invoice/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/steem-invoice/static/js/main.0643b7aa.chunk.js",
+    "main.js.map": "/steem-invoice/static/js/main.0643b7aa.chunk.js.map",
+    "runtime-main.js": "/steem-invoice/static/js/runtime-main.6957f7f1.js",
+    "runtime-main.js.map": "/steem-invoice/static/js/runtime-main.6957f7f1.js.map",
+    "static/css/2.800be05e.chunk.css": "/steem-invoice/static/css/2.800be05e.chunk.css",
+    "static/js/2.435251f2.chunk.js": "/steem-invoice/static/js/2.435251f2.chunk.js",
+    "static/js/2.435251f2.chunk.js.map": "/steem-invoice/static/js/2.435251f2.chunk.js.map",
+    "static/js/3.fafcedbd.chunk.js": "/steem-invoice/static/js/3.fafcedbd.chunk.js",
+    "static/js/3.fafcedbd.chunk.js.map": "/steem-invoice/static/js/3.fafcedbd.chunk.js.map",
+    "index.html": "/steem-invoice/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/steem-invoice/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/steem-invoice/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.435251f2.chunk.js.LICENSE.txt": "/steem-invoice/static/js/2.435251f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6957f7f1.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.435251f2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0643b7aa.chunk.js"
+  ]
+}
