@@ -3,9 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {Navbar, Container} from 'react-bootstrap';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Navbar bg="dark" variant="dark">
+      <Container>
+        <Navbar.Brand href="#home">
+            Steem Invoice
+        </Navbar.Brand>
+      </Container>
+    </Navbar>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
