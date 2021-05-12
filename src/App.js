@@ -7,7 +7,7 @@ class App extends React.Component {
   constructor(){
     super();
     this.state={
-      link:"r",
+      link:"",
       user:"",
       amount:"",
       kind:"steem",
