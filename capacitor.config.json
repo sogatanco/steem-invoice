@@ -1,0 +1,12 @@
+{
+    "appId": "io.ionic.steeminvoice",
+    "appName": "nameofyourapp",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {},
+    "server":{
+        "hostname":"localhost:3000",
+        "andoidSchema":"http"
+    }
+  }

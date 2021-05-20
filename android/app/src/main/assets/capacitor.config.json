@@ -1,0 +1,11 @@
+{
+	"appId": "io.ionic.steeminvoice",
+	"appName": "Steem Invoice",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {},
+	"server": {
+		"url": "https://sogatanco.github.io/steem-invoice/"
+	}
+}

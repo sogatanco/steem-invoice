@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "https://sogatanco.github.io/steem-invoice/",
   "dependencies": {
+    "@capacitor/android": "3.0.0",
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/core": "^3.0.0",
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",

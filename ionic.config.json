@@ -1,0 +1,7 @@
+{
+    "name": "steeminvoice",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
